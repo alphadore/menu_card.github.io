@@ -9,7 +9,7 @@ This project helped me improve my understanding of alignment, typography, and re
 ---
 
 ## 🌐 Live Preview
-(Add your GitHub Pages link here)
+https://alphadore.github.io/menu_card.github.io/
 
 ---
 
